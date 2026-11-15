@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/home/xj/praCMAKE/v4/lib2  -Wl,-rpath,/home/xj/praCMAKE/v4/lib2 -lcalc 
